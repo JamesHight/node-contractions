@@ -2,7 +2,7 @@ Contractions
 -----------
 
 
-Convert English contractions to complete words.  
+Convert English contractions to complete words.
 
 Uses the word list from [https://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions](https://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions).
 

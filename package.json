@@ -1,6 +1,6 @@
 {
   "name": "contractions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "licenses": [
     {
       "type": "Apache 2.0",
@@ -8,7 +8,14 @@
     }
   ],
   "author": "James Hight",
-  "description": "Convert word contractions such as I'm to I am and don't to do not.",
+  "description": "Convert word contractions such as \"I'm\" to \"I am\" and \"don't\" to \"do not\".",
+  "keywords": [
+    "contractions",
+    "contraction",
+    "English",
+    "grammar",
+    "clipping"
+  ],
   "homepage": "https://github.com/JamesHight/node-contractions#readme",
   "repository": {
     "type": "git",
