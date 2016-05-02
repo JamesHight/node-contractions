@@ -1,0 +1,25 @@
+{
+  "name": "enlargement",
+  "version": "0.0.1",
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "https://github.com/JamesHight/node-evil-dns/blob/master/LICENSE"
+    }
+  ],
+  "author": "James Hight",
+  "description": "Convert word contractions such as I'm to I am and don't to do not.",
+  "homepage": "https://github.com/JamesHight/node-enlargement#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:JamesHight/node-enlargement.git"
+  },
+  "main": "./lib/enlargement.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha ./test -R spec"
+  },
+  "devDependencies": {
+  	"chai": "^2.0.0",
+    "mocha": "^2.1.0"
+  }
+}
