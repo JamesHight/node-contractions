@@ -1,5 +1,5 @@
 {
-  "name": "enlargement",
+  "name": "contractions",
   "version": "0.0.1",
   "licenses": [
     {
@@ -9,12 +9,12 @@
   ],
   "author": "James Hight",
   "description": "Convert word contractions such as I'm to I am and don't to do not.",
-  "homepage": "https://github.com/JamesHight/node-enlargement#readme",
+  "homepage": "https://github.com/JamesHight/node-contractions#readme",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:JamesHight/node-enlargement.git"
+    "url": "git+ssh://git@github.com:JamesHight/node-contractions.git"
   },
-  "main": "./lib/enlargement.js",
+  "main": "./lib/contractions.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha ./test -R spec"
   },
