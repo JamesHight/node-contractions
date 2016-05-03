@@ -6,11 +6,14 @@ Convert English contractions to complete words.
 
 Uses the word list from [https://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions](https://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions).
 
+---
 
 
 ````bash
 npm install contractions
 ````
+
+---
 
 
 ````javascript
@@ -23,9 +26,13 @@ console.log(contractions.contract("You all will have not seen this."));
 // Outputs: Y'all'll'ven't seen this.
 ````
 
+---
+
 
 You can also use your own list of contractions / strings.
+
 Note: Longer strings take precedent over short strings.
+
 
 ````javascript
 var Contractions = require('contractions').Contractions;
