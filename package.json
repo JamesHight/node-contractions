@@ -1,10 +1,10 @@
 {
   "name": "contractions",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "licenses": [
     {
       "type": "Apache 2.0",
-      "url": "https://github.com/JamesHight/node-evil-dns/blob/master/LICENSE"
+      "url": "https://github.com/JamesHight/node-contractions/blob/master/LICENSE"
     }
   ],
   "author": "James Hight",
